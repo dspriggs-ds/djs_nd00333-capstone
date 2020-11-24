@@ -62,8 +62,26 @@ To deploy the best model found by AutoML we use the AzureML Endpoint. The best m
 
 ![](images/Best_Model_Logspng.png)
 
+## Model Demonstration
+
+To query the model, from within the Notebook, starts with querying the service created:
+
+![](images/ModeDemo1.png)
+
+and we pass a sample dataset to the endpoint:
+
+![](images/ModelDemo3.png)
+
+then the dataset is submitted to the endpoint and a result is returned:
+
+![](images/ModeDemo2.png)
+
 
 ## Screen Recording
 <a href="https://youtu.be/mqFNF_qU3Fk" target="_blank">Screencast</a>
+
+## Areas of improvement
+
+Perform further exploratory data analysis to ensure optimal performance; which includes <a href="https://www.nlm.nih.gov/medlineplus/ency/article/007509.htm#:~:text=Brain%20natriuretic%20peptide%20%28BNP%29%20test%20is%20a%20blood,higher%20than%20normal%20when%20you%20have%20heart%20failure" target="_blank">Brain natriuretic peptide (BNP)</a> test a good indicator of heart failure.
 
 
