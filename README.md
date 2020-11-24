@@ -64,9 +64,6 @@ To deploy the best model found by AutoML we use the AzureML Endpoint. The best m
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
-- A working model
-- Demo of the deployed  model
-- Demo of a sample request sent to the endpoint and its response
+<a href="https://youtu.be/BrZcG7U3kW4" target="_blank">Screencast</a>
 
 
