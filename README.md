@@ -64,6 +64,6 @@ To deploy the best model found by AutoML we use the AzureML Endpoint. The best m
 
 
 ## Screen Recording
-<a href="https://youtu.be/BrZcG7U3kW4" target="_blank">Screencast</a>
+<a href="https://youtu.be/mqFNF_qU3Fk" target="_blank">Screencast</a>
 
 
